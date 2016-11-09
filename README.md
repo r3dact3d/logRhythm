@@ -39,3 +39,6 @@ def cleanup():
         os.rmdir(workingDir)
         os.unlink(tarFile)
         print 'PASS: All evidence removed!'
+
+
+YOU WILL ALSO -> need to update your own mediator in a coupld spots... search for data variable and mediator variable.
